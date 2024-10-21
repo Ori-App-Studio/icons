@@ -596,6 +596,7 @@ _To select the `name` from its `SF Symbol Name`, add the prop of `namingScheme="
 | rewind-outline                  | MaterialCommunityIcons | backward                                     |
 | router                          | MaterialIcons          | wifi.router.fill                             |
 | ruler                           | MaterialCommunityIcons | ruler.fill                                   |
+| run                             | MaterialCommunityIcons | figure.run                                   |
 | scanner                         | MaterialCommunityIcons | scanner                                      |
 | screwdriver                     | MaterialCommunityIcons | screwdriver                                  |
 | script                          | MaterialCommunityIcons | scroll.fill                                  |
@@ -606,6 +607,7 @@ _To select the `name` from its `SF Symbol Name`, add the prop of `namingScheme="
 | send-circle-outline             | MaterialCommunityIcons | paperplane.circle                            |
 | send-outline                    | MaterialCommunityIcons | paperplane                                   |
 | server                          | MaterialCommunityIcons | server.rack                                  |
+| share-variant                   | MaterialCommunityIcons | square.and.arrow.up.fill                     |
 | shield                          | MaterialCommunityIcons | shield.fill                                  |
 | shield-check                    | MaterialCommunityIcons | checkmark.shield.fill                        |
 | shield-check-outline            | MaterialCommunityIcons | checkmark.shield                             |

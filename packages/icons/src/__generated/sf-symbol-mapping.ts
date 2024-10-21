@@ -1,4 +1,12 @@
 export const SF_SYMBOL_MAPPING = {
+  "figure.run": {
+    "type": "MaterialCommunityIcons",
+    "material": "run"
+  },
+  "square.and.arrow.up.fill": {
+    "type": "MaterialCommunityIcons",
+    "material": "share-variant"
+  },
   "square.and.arrow.up": {
     "type": "MaterialCommunityIcons",
     "material": "tray-arrow-up"
